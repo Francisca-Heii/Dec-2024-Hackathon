@@ -39,7 +39,7 @@ ALLOWED_HOSTS = [
     '.codeinstitute-ide.net',
     'localhost',
     '127.0.0.1',
-    'https://jinglebites.up.railway.app/',
+    'https://jinglebites.up.railway.app',
     ]
 
 # Heroku URL
