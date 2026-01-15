@@ -2,7 +2,7 @@
 # Code Institute "December 2024 - HackTeam Takeover!" <a id="top"/>
 
 <img src="static/images/responsive-design.png"><br>
-[Jingle Bites](https://jingle-bites-28089fd21e29.herokuapp.com/)
+[Jingle Bites](https://jinglebites.up.railway.app/)
 
 ## Introduction
 The present website was done as part of the December Hackathon organised by Code Institute (CI) in 2024.<br>
